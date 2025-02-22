@@ -47,4 +47,5 @@ jobs:
         with:
           name: ${{ steps.vars.outputs.release_name }}
           tag_name: ${{ steps.vars.outputs.release_name }}
+          make_latest: true
           files: all_dats.7z
