@@ -1,0 +1,48 @@
+
+name: "publish"
+on: workflow_dispatch
+
+jobs:
+  publish-dats:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Download xi-tinkerer-cli
+        id: tinkerer
+        uses: robinraju/release-downloader@v1
+        with:
+          latest: true
+          repository: InoUno/xi-tinkerer
+          fileName: 'xi-tinkerer-cli-linux-amd64'
+
+      - name: Install p7zip
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: p7zip
+          version: 1.0
+
+      - name: Generate all DATs
+        run: |
+          chmod +x ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }}
+          ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }} make-dats ${{ github.workspace }}
+
+      - name: Compress all DATs
+        run: 7z a -t7z -mx=9 all_dats.7z generated_dats/
+
+      - name: Get release name
+        id: vars
+        run: echo "release_name=$(date +'%Y-%m-%d')_$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ steps.vars.outputs.release_name }}
+          tag_name: ${{ steps.vars.outputs.release_name }}
+          files: all_dats.7z

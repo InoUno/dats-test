@@ -1,0 +1,894 @@
+0:
+  display_name: unknown
+  file_name: unknown
+1:
+  display_name: Phanauet Channel
+  file_name: Phanauet_Channel
+2:
+  display_name: Carpenters' Landing
+  file_name: Carpenters_Landing
+3:
+  display_name: Manaclipper
+  file_name: Manaclipper
+4:
+  display_name: Bibiki Bay
+  file_name: Bibiki_Bay
+5:
+  display_name: Uleguerand Range
+  file_name: Uleguerand_Range
+6:
+  display_name: Bearclaw Pinnacle
+  file_name: Bearclaw_Pinnacle
+7:
+  display_name: Attohwa Chasm
+  file_name: Attohwa_Chasm
+8:
+  display_name: Boneyard Gully
+  file_name: Boneyard_Gully
+9:
+  display_name: Pso'Xja
+  file_name: PsoXja
+10:
+  display_name: The Shrouded Maw
+  file_name: The_Shrouded_Maw
+11:
+  display_name: Oldton Movalpolos
+  file_name: Oldton_Movalpolos
+12:
+  display_name: Newton Movalpolos
+  file_name: Newton_Movalpolos
+13:
+  display_name: 'Mine Shaft #2716'
+  file_name: Mine_Shaft_#2716
+14:
+  display_name: Hall of Transference
+  file_name: Hall_of_Transference
+15:
+  display_name: Abyssea - Konschtat
+  file_name: Abyssea-Konschtat
+16:
+  display_name: Promyvion - Holla
+  file_name: Promyvion-Holla
+17:
+  display_name: Spire of Holla
+  file_name: Spire_of_Holla
+18:
+  display_name: Promyvion - Dem
+  file_name: Promyvion-Dem
+19:
+  display_name: Spire of Dem
+  file_name: Spire_of_Dem
+20:
+  display_name: Promyvion - Mea
+  file_name: Promyvion-Mea
+21:
+  display_name: Spire of Mea
+  file_name: Spire_of_Mea
+22:
+  display_name: Promyvion - Vahzl
+  file_name: Promyvion-Vahzl
+23:
+  display_name: Spire of Vahzl
+  file_name: Spire_of_Vahzl
+24:
+  display_name: Lufaise Meadows
+  file_name: Lufaise_Meadows
+25:
+  display_name: Misareaux Coast
+  file_name: Misareaux_Coast
+26:
+  display_name: Tavnazian Safehold
+  file_name: Tavnazian_Safehold
+27:
+  display_name: Phomiuna Aqueducts
+  file_name: Phomiuna_Aqueducts
+28:
+  display_name: Sacrarium
+  file_name: Sacrarium
+29:
+  display_name: 'Riverne - Site #B01'
+  file_name: Riverne-Site_#B01
+30:
+  display_name: 'Riverne - Site #A01'
+  file_name: Riverne-Site_#A01
+31:
+  display_name: Monarch Linn
+  file_name: Monarch_Linn
+32:
+  display_name: Sealion's Den
+  file_name: Sealions_Den
+33:
+  display_name: Al'Taieu
+  file_name: AlTaieu
+34:
+  display_name: Grand Palace of Hu'Xzoi
+  file_name: Grand_Palace_of_HuXzoi
+35:
+  display_name: The Garden of Ru'Hmet
+  file_name: The_Garden_of_RuHmet
+36:
+  display_name: Empyreal Paradox
+  file_name: Empyreal_Paradox
+37:
+  display_name: Temenos
+  file_name: Temenos
+38:
+  display_name: Apollyon
+  file_name: Apollyon
+39:
+  display_name: Dynamis - Valkurm
+  file_name: Dynamis-Valkurm
+40:
+  display_name: Dynamis - Buburimu
+  file_name: Dynamis-Buburimu
+41:
+  display_name: Dynamis - Qufim
+  file_name: Dynamis-Qufim
+42:
+  display_name: Dynamis - Tavnazia
+  file_name: Dynamis-Tavnazia
+43:
+  display_name: Diorama Abdhaljs-Ghelsba
+  file_name: Diorama_Abdhaljs-Ghelsba
+44:
+  display_name: Abdhaljs Isle-Purgonorgo
+  file_name: Abdhaljs_Isle-Purgonorgo
+45:
+  display_name: Abyssea - Tahrongi
+  file_name: Abyssea-Tahrongi
+46:
+  display_name: Open sea route to Al Zahbi
+  file_name: Open_sea_route_to_Al_Zahbi
+47:
+  display_name: Open sea route to Mhaura
+  file_name: Open_sea_route_to_Mhaura
+48:
+  display_name: Al Zahbi
+  file_name: Al_Zahbi
+49:
+  display_name: none
+  file_name: none
+50:
+  display_name: Aht Urhgan Whitegate
+  file_name: Aht_Urhgan_Whitegate
+51:
+  display_name: Wajaom Woodlands
+  file_name: Wajaom_Woodlands
+52:
+  display_name: Bhaflau Thickets
+  file_name: Bhaflau_Thickets
+53:
+  display_name: Nashmau
+  file_name: Nashmau
+54:
+  display_name: Arrapago Reef
+  file_name: Arrapago_Reef
+55:
+  display_name: Ilrusi Atoll
+  file_name: Ilrusi_Atoll
+56:
+  display_name: Periqia
+  file_name: Periqia
+57:
+  display_name: Talacca Cove
+  file_name: Talacca_Cove
+58:
+  display_name: Silver Sea route to Nashmau
+  file_name: Silver_Sea_route_to_Nashmau
+59:
+  display_name: Silver Sea route to Al Zahbi
+  file_name: Silver_Sea_route_to_Al_Zahbi
+60:
+  display_name: The Ashu Talif
+  file_name: The_Ashu_Talif
+61:
+  display_name: Mount Zhayolm
+  file_name: Mount_Zhayolm
+62:
+  display_name: Halvung
+  file_name: Halvung
+63:
+  display_name: Lebros Cavern
+  file_name: Lebros_Cavern
+64:
+  display_name: Navukgo Execution Chamber
+  file_name: Navukgo_Execution_Chamber
+65:
+  display_name: Mamook
+  file_name: Mamook
+66:
+  display_name: Mamool Ja Training Grounds
+  file_name: Mamool_Ja_Training_Grounds
+67:
+  display_name: Jade Sepulcher
+  file_name: Jade_Sepulcher
+68:
+  display_name: Aydeewa Subterrane
+  file_name: Aydeewa_Subterrane
+69:
+  display_name: Leujaoam Sanctum
+  file_name: Leujaoam_Sanctum
+70:
+  display_name: Chocobo Circuit
+  file_name: Chocobo_Circuit
+71:
+  display_name: The Colosseum
+  file_name: The_Colosseum
+72:
+  display_name: Alzadaal Undersea Ruins
+  file_name: Alzadaal_Undersea_Ruins
+73:
+  display_name: Zhayolm Remnants
+  file_name: Zhayolm_Remnants
+74:
+  display_name: Arrapago Remnants
+  file_name: Arrapago_Remnants
+75:
+  display_name: Bhaflau Remnants
+  file_name: Bhaflau_Remnants
+76:
+  display_name: Silver Sea Remnants
+  file_name: Silver_Sea_Remnants
+77:
+  display_name: Nyzul Isle
+  file_name: Nyzul_Isle
+78:
+  display_name: Hazhalm Testing Grounds
+  file_name: Hazhalm_Testing_Grounds
+79:
+  display_name: Caedarva Mire
+  file_name: Caedarva_Mire
+80:
+  display_name: Southern San d'Oria [S]
+  file_name: Southern_San_dOria_[S]
+81:
+  display_name: East Ronfaure [S]
+  file_name: East_Ronfaure_[S]
+82:
+  display_name: Jugner Forest [S]
+  file_name: Jugner_Forest_[S]
+83:
+  display_name: Vunkerl Inlet [S]
+  file_name: Vunkerl_Inlet_[S]
+84:
+  display_name: Batallia Downs [S]
+  file_name: Batallia_Downs_[S]
+85:
+  display_name: La Vaule [S]
+  file_name: La_Vaule_[S]
+86:
+  display_name: Everbloom Hollow
+  file_name: Everbloom_Hollow
+87:
+  display_name: Bastok Markets [S]
+  file_name: Bastok_Markets_[S]
+88:
+  display_name: North Gustaberg [S]
+  file_name: North_Gustaberg_[S]
+89:
+  display_name: Grauberg [S]
+  file_name: Grauberg_[S]
+90:
+  display_name: Pashhow Marshlands [S]
+  file_name: Pashhow_Marshlands_[S]
+91:
+  display_name: Rolanberry Fields [S]
+  file_name: Rolanberry_Fields_[S]
+92:
+  display_name: Beadeaux [S]
+  file_name: Beadeaux_[S]
+93:
+  display_name: Ruhotz Silvermines
+  file_name: Ruhotz_Silvermines
+94:
+  display_name: Windurst Waters [S]
+  file_name: Windurst_Waters_[S]
+95:
+  display_name: West Sarutabaruta [S]
+  file_name: West_Sarutabaruta_[S]
+96:
+  display_name: Fort Karugo-Narugo [S]
+  file_name: Fort_Karugo-Narugo_[S]
+97:
+  display_name: Meriphataud Mountains [S]
+  file_name: Meriphataud_Mountains_[S]
+98:
+  display_name: Sauromugue Champaign [S]
+  file_name: Sauromugue_Champaign_[S]
+99:
+  display_name: Castle Oztroja [S]
+  file_name: Castle_Oztroja_[S]
+100:
+  display_name: West Ronfaure
+  file_name: West_Ronfaure
+101:
+  display_name: East Ronfaure
+  file_name: East_Ronfaure
+102:
+  display_name: La Theine Plateau
+  file_name: La_Theine_Plateau
+103:
+  display_name: Valkurm Dunes
+  file_name: Valkurm_Dunes
+104:
+  display_name: Jugner Forest
+  file_name: Jugner_Forest
+105:
+  display_name: Batallia Downs
+  file_name: Batallia_Downs
+106:
+  display_name: North Gustaberg
+  file_name: North_Gustaberg
+107:
+  display_name: South Gustaberg
+  file_name: South_Gustaberg
+108:
+  display_name: Konschtat Highlands
+  file_name: Konschtat_Highlands
+109:
+  display_name: Pashhow Marshlands
+  file_name: Pashhow_Marshlands
+110:
+  display_name: Rolanberry Fields
+  file_name: Rolanberry_Fields
+111:
+  display_name: Beaucedine Glacier
+  file_name: Beaucedine_Glacier
+112:
+  display_name: Xarcabard
+  file_name: Xarcabard
+113:
+  display_name: Cape Teriggan
+  file_name: Cape_Teriggan
+114:
+  display_name: Eastern Altepa Desert
+  file_name: Eastern_Altepa_Desert
+115:
+  display_name: West Sarutabaruta
+  file_name: West_Sarutabaruta
+116:
+  display_name: East Sarutabaruta
+  file_name: East_Sarutabaruta
+117:
+  display_name: Tahrongi Canyon
+  file_name: Tahrongi_Canyon
+118:
+  display_name: Buburimu Peninsula
+  file_name: Buburimu_Peninsula
+119:
+  display_name: Meriphataud Mountains
+  file_name: Meriphataud_Mountains
+120:
+  display_name: Sauromugue Champaign
+  file_name: Sauromugue_Champaign
+121:
+  display_name: The Sanctuary of Zi'Tah
+  file_name: The_Sanctuary_of_ZiTah
+122:
+  display_name: Ro'Maeve
+  file_name: RoMaeve
+123:
+  display_name: Yuhtunga Jungle
+  file_name: Yuhtunga_Jungle
+124:
+  display_name: Yhoator Jungle
+  file_name: Yhoator_Jungle
+125:
+  display_name: Western Altepa Desert
+  file_name: Western_Altepa_Desert
+126:
+  display_name: Qufim Island
+  file_name: Qufim_Island
+127:
+  display_name: Behemoth's Dominion
+  file_name: Behemoths_Dominion
+128:
+  display_name: Valley of Sorrows
+  file_name: Valley_of_Sorrows
+129:
+  display_name: Ghoyu's Reverie
+  file_name: Ghoyus_Reverie
+130:
+  display_name: Ru'Aun Gardens
+  file_name: RuAun_Gardens
+131:
+  display_name: Mordion Gaol
+  file_name: Mordion_Gaol
+132:
+  display_name: Abyssea - La Theine
+  file_name: Abyssea-La_Theine
+133:
+  display_name: _unnamed_ID-133
+  file_name: _unnamed_ID-133
+134:
+  display_name: Dynamis - Beaucedine
+  file_name: Dynamis-Beaucedine
+135:
+  display_name: Dynamis - Xarcabard
+  file_name: Dynamis-Xarcabard
+136:
+  display_name: Beaucedine Glacier [S]
+  file_name: Beaucedine_Glacier_[S]
+137:
+  display_name: Xarcabard [S]
+  file_name: Xarcabard_[S]
+138:
+  display_name: Castle Zvahl Baileys [S]
+  file_name: Castle_Zvahl_Baileys_[S]
+139:
+  display_name: Horlais Peak
+  file_name: Horlais_Peak
+140:
+  display_name: Ghelsba Outpost
+  file_name: Ghelsba_Outpost
+141:
+  display_name: Fort Ghelsba
+  file_name: Fort_Ghelsba
+142:
+  display_name: Yughott Grotto
+  file_name: Yughott_Grotto
+143:
+  display_name: Palborough Mines
+  file_name: Palborough_Mines
+144:
+  display_name: Waughroon Shrine
+  file_name: Waughroon_Shrine
+145:
+  display_name: Giddeus
+  file_name: Giddeus
+146:
+  display_name: Balga's Dais
+  file_name: Balgas_Dais
+147:
+  display_name: Beadeaux
+  file_name: Beadeaux
+148:
+  display_name: Qulun Dome
+  file_name: Qulun_Dome
+149:
+  display_name: Davoi
+  file_name: Davoi
+150:
+  display_name: Monastic Cavern
+  file_name: Monastic_Cavern
+151:
+  display_name: Castle Oztroja
+  file_name: Castle_Oztroja
+152:
+  display_name: Altar Room
+  file_name: Altar_Room
+153:
+  display_name: The Boyahda Tree
+  file_name: The_Boyahda_Tree
+154:
+  display_name: Dragon's Aery
+  file_name: Dragons_Aery
+155:
+  display_name: Castle Zvahl Keep [S]
+  file_name: Castle_Zvahl_Keep_[S]
+156:
+  display_name: Throne Room [S]
+  file_name: Throne_Room_[S]
+157:
+  display_name: Middle Delkfutt's Tower
+  file_name: Middle_Delkfutts_Tower
+158:
+  display_name: Upper Delkfutt's Tower
+  file_name: Upper_Delkfutts_Tower
+159:
+  display_name: Temple of Uggalepih
+  file_name: Temple_of_Uggalepih
+160:
+  display_name: Den of Rancor
+  file_name: Den_of_Rancor
+161:
+  display_name: Castle Zvahl Baileys
+  file_name: Castle_Zvahl_Baileys
+162:
+  display_name: Castle Zvahl Keep
+  file_name: Castle_Zvahl_Keep
+163:
+  display_name: Sacrificial Chamber
+  file_name: Sacrificial_Chamber
+164:
+  display_name: Garlaige Citadel [S]
+  file_name: Garlaige_Citadel_[S]
+165:
+  display_name: Throne Room
+  file_name: Throne_Room
+166:
+  display_name: Ranguemont Pass
+  file_name: Ranguemont_Pass
+167:
+  display_name: Bostaunieux Oubliette
+  file_name: Bostaunieux_Oubliette
+168:
+  display_name: Chamber of Oracles
+  file_name: Chamber_of_Oracles
+169:
+  display_name: Toraimarai Canal
+  file_name: Toraimarai_Canal
+170:
+  display_name: Full Moon Fountain
+  file_name: Full_Moon_Fountain
+171:
+  display_name: Crawlers' Nest [S]
+  file_name: Crawlers_Nest_[S]
+172:
+  display_name: Zeruhn Mines
+  file_name: Zeruhn_Mines
+173:
+  display_name: Korroloka Tunnel
+  file_name: Korroloka_Tunnel
+174:
+  display_name: Kuftal Tunnel
+  file_name: Kuftal_Tunnel
+175:
+  display_name: The Eldieme Necropolis [S]
+  file_name: The_Eldieme_Necropolis_[S]
+176:
+  display_name: Sea Serpent Grotto
+  file_name: Sea_Serpent_Grotto
+177:
+  display_name: Ve'Lugannon Palace
+  file_name: VeLugannon_Palace
+178:
+  display_name: The Shrine of Ru'Avitau
+  file_name: The_Shrine_of_RuAvitau
+179:
+  display_name: Stellar Fulcrum
+  file_name: Stellar_Fulcrum
+180:
+  display_name: La'Loff Amphitheater
+  file_name: LaLoff_Amphitheater
+181:
+  display_name: The Celestial Nexus
+  file_name: The_Celestial_Nexus
+182:
+  display_name: Walk of Echoes
+  file_name: Walk_of_Echoes
+183:
+  display_name: Maquette Abdhaljs-Legion
+  file_name: Maquette_Abdhaljs-Legion
+184:
+  display_name: Lower Delkfutt's Tower
+  file_name: Lower_Delkfutts_Tower
+185:
+  display_name: Dynamis - San d'Oria
+  file_name: Dynamis-San_dOria
+186:
+  display_name: Dynamis - Bastok
+  file_name: Dynamis-Bastok
+187:
+  display_name: Dynamis - Windurst
+  file_name: Dynamis-Windurst
+188:
+  display_name: Dynamis - Jeuno
+  file_name: Dynamis-Jeuno
+189:
+  display_name: _unnamed_ID-189
+  file_name: _unnamed_ID-189
+190:
+  display_name: King Ranperre's Tomb
+  file_name: King_Ranperres_Tomb
+191:
+  display_name: Dangruf Wadi
+  file_name: Dangruf_Wadi
+192:
+  display_name: Inner Horutoto Ruins
+  file_name: Inner_Horutoto_Ruins
+193:
+  display_name: Ordelle's Caves
+  file_name: Ordelles_Caves
+194:
+  display_name: Outer Horutoto Ruins
+  file_name: Outer_Horutoto_Ruins
+195:
+  display_name: The Eldieme Necropolis
+  file_name: The_Eldieme_Necropolis
+196:
+  display_name: Gusgen Mines
+  file_name: Gusgen_Mines
+197:
+  display_name: Crawlers' Nest
+  file_name: Crawlers_Nest
+198:
+  display_name: Maze of Shakhrami
+  file_name: Maze_of_Shakhrami
+199:
+  display_name: _unnamed_ID-199
+  file_name: _unnamed_ID-199
+200:
+  display_name: Garlaige Citadel
+  file_name: Garlaige_Citadel
+201:
+  display_name: Cloister of Gales
+  file_name: Cloister_of_Gales
+202:
+  display_name: Cloister of Storms
+  file_name: Cloister_of_Storms
+203:
+  display_name: Cloister of Frost
+  file_name: Cloister_of_Frost
+204:
+  display_name: Fei'Yin
+  file_name: FeiYin
+205:
+  display_name: Ifrit's Cauldron
+  file_name: Ifrits_Cauldron
+206:
+  display_name: Qu'Bia Arena
+  file_name: QuBia_Arena
+207:
+  display_name: Cloister of Flames
+  file_name: Cloister_of_Flames
+208:
+  display_name: Quicksand Caves
+  file_name: Quicksand_Caves
+209:
+  display_name: Cloister of Tremors
+  file_name: Cloister_of_Tremors
+210:
+  display_name: _unnamed_ID-210
+  file_name: _unnamed_ID-210
+211:
+  display_name: Cloister of Tides
+  file_name: Cloister_of_Tides
+212:
+  display_name: Gustav Tunnel
+  file_name: Gustav_Tunnel
+213:
+  display_name: Labyrinth of Onzozo
+  file_name: Labyrinth_of_Onzozo
+214:
+  display_name: _unnamed_ID-214
+  file_name: _unnamed_ID-214
+215:
+  display_name: Abyssea - Attohwa
+  file_name: Abyssea-Attohwa
+216:
+  display_name: Abyssea - Misareaux
+  file_name: Abyssea-Misareaux
+217:
+  display_name: Abyssea - Vunkerl
+  file_name: Abyssea-Vunkerl
+218:
+  display_name: Abyssea - Altepa
+  file_name: Abyssea-Altepa
+219:
+  display_name: _unnamed_ID-219
+  file_name: _unnamed_ID-219
+220:
+  display_name: Ship bound for Selbina
+  file_name: Ship_bound_for_Selbina
+221:
+  display_name: Ship bound for Mhaura
+  file_name: Ship_bound_for_Mhaura
+222:
+  display_name: Provenance
+  file_name: Provenance
+223:
+  display_name: San d'Oria-Jeuno Airship
+  file_name: San_dOria-Jeuno_Airship
+224:
+  display_name: Bastok-Jeuno Airship
+  file_name: Bastok-Jeuno_Airship
+225:
+  display_name: Windurst-Jeuno Airship
+  file_name: Windurst-Jeuno_Airship
+226:
+  display_name: Kazham-Jeuno Airship
+  file_name: Kazham-Jeuno_Airship
+227:
+  display_name: Ship bound for Selbina ID-227
+  file_name: Ship_bound_for_Selbina_ID-227
+228:
+  display_name: Ship bound for Mhaura ID-228
+  file_name: Ship_bound_for_Mhaura_ID-228
+229:
+  display_name: _unnamed_ID-229
+  file_name: _unnamed_ID-229
+230:
+  display_name: Southern San d'Oria
+  file_name: Southern_San_dOria
+231:
+  display_name: Northern San d'Oria
+  file_name: Northern_San_dOria
+232:
+  display_name: Port San d'Oria
+  file_name: Port_San_dOria
+233:
+  display_name: Chateau d'Oraguille
+  file_name: Chateau_dOraguille
+234:
+  display_name: Bastok Mines
+  file_name: Bastok_Mines
+235:
+  display_name: Bastok Markets
+  file_name: Bastok_Markets
+236:
+  display_name: Port Bastok
+  file_name: Port_Bastok
+237:
+  display_name: Metalworks
+  file_name: Metalworks
+238:
+  display_name: Windurst Waters
+  file_name: Windurst_Waters
+239:
+  display_name: Windurst Walls
+  file_name: Windurst_Walls
+240:
+  display_name: Port Windurst
+  file_name: Port_Windurst
+241:
+  display_name: Windurst Woods
+  file_name: Windurst_Woods
+242:
+  display_name: Heavens Tower
+  file_name: Heavens_Tower
+243:
+  display_name: Ru'Lude Gardens
+  file_name: RuLude_Gardens
+244:
+  display_name: Upper Jeuno
+  file_name: Upper_Jeuno
+245:
+  display_name: Lower Jeuno
+  file_name: Lower_Jeuno
+246:
+  display_name: Port Jeuno
+  file_name: Port_Jeuno
+247:
+  display_name: Rabao
+  file_name: Rabao
+248:
+  display_name: Selbina
+  file_name: Selbina
+249:
+  display_name: Mhaura
+  file_name: Mhaura
+250:
+  display_name: Kazham
+  file_name: Kazham
+251:
+  display_name: Hall of the Gods
+  file_name: Hall_of_the_Gods
+252:
+  display_name: Norg
+  file_name: Norg
+253:
+  display_name: Abyssea - Uleguerand
+  file_name: Abyssea-Uleguerand
+254:
+  display_name: Abyssea - Grauberg
+  file_name: Abyssea-Grauberg
+255:
+  display_name: Abyssea - Empyreal Paradox
+  file_name: Abyssea-Empyreal_Paradox
+256:
+  display_name: Western Adoulin
+  file_name: Western_Adoulin
+257:
+  display_name: Eastern Adoulin
+  file_name: Eastern_Adoulin
+258:
+  display_name: Rala Waterways
+  file_name: Rala_Waterways
+259:
+  display_name: Rala Waterways [U]
+  file_name: Rala_Waterways_[U]
+260:
+  display_name: Yahse Hunting Grounds
+  file_name: Yahse_Hunting_Grounds
+261:
+  display_name: Ceizak Battlegrounds
+  file_name: Ceizak_Battlegrounds
+262:
+  display_name: Foret de Hennetiel
+  file_name: Foret_de_Hennetiel
+263:
+  display_name: Yorcia Weald
+  file_name: Yorcia_Weald
+264:
+  display_name: Yorcia Weald [U]
+  file_name: Yorcia_Weald_[U]
+265:
+  display_name: Morimar Basalt Fields
+  file_name: Morimar_Basalt_Fields
+266:
+  display_name: Marjami Ravine
+  file_name: Marjami_Ravine
+267:
+  display_name: Kamihr Drifts
+  file_name: Kamihr_Drifts
+268:
+  display_name: Sih Gates
+  file_name: Sih_Gates
+269:
+  display_name: Moh Gates
+  file_name: Moh_Gates
+270:
+  display_name: Cirdas Caverns
+  file_name: Cirdas_Caverns
+271:
+  display_name: Cirdas Caverns [U]
+  file_name: Cirdas_Caverns_[U]
+272:
+  display_name: Dho Gates
+  file_name: Dho_Gates
+273:
+  display_name: Woh Gates
+  file_name: Woh_Gates
+274:
+  display_name: Outer Ra'Kaznar
+  file_name: Outer_RaKaznar
+275:
+  display_name: Outer Ra'Kaznar [U]
+  file_name: Outer_RaKaznar_[U]
+276:
+  display_name: Ra'Kaznar Inner Court
+  file_name: RaKaznar_Inner_Court
+277:
+  display_name: Ra'Kaznar Turris
+  file_name: RaKaznar_Turris
+278:
+  display_name: _unnamed_ID-278
+  file_name: _unnamed_ID-278
+279:
+  display_name: _unnamed_ID-279
+  file_name: _unnamed_ID-279
+280:
+  display_name: Mog Garden
+  file_name: Mog_Garden
+281:
+  display_name: Leafallia
+  file_name: Leafallia
+282:
+  display_name: Mount Kamihr
+  file_name: Mount_Kamihr
+283:
+  display_name: Silver Knife
+  file_name: Silver_Knife
+284:
+  display_name: Celennia Memorial Library
+  file_name: Celennia_Memorial_Library
+285:
+  display_name: Feretory
+  file_name: Feretory
+286:
+  display_name: _unnamed_ID-286
+  file_name: _unnamed_ID-286
+287:
+  display_name: _unnamed_ID-287
+  file_name: _unnamed_ID-287
+288:
+  display_name: Escha - Zi'Tah
+  file_name: Escha-ZiTah
+289:
+  display_name: Escha - Ru'Aun
+  file_name: Escha-RuAun
+290:
+  display_name: Desuetia - Empyreal Paradox
+  file_name: Desuetia-Empyreal_Paradox
+291:
+  display_name: Reisenjima
+  file_name: Reisenjima
+292:
+  display_name: Reisenjima Henge
+  file_name: Reisenjima_Henge
+293:
+  display_name: Reisenjima Sanctorium
+  file_name: Reisenjima_Sanctorium
+294:
+  display_name: Dynamis - San d'Oria [D]
+  file_name: Dynamis-San_dOria_[D]
+295:
+  display_name: Dynamis - Bastok [D]
+  file_name: Dynamis-Bastok_[D]
+296:
+  display_name: Dynamis - Windurst [D]
+  file_name: Dynamis-Windurst_[D]
+297:
+  display_name: Dynamis - Jeuno [D]
+  file_name: Dynamis-Jeuno_[D]
