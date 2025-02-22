@@ -28,13 +28,15 @@ jobs:
           packages: p7zip
           version: 1.0
 
-      - name: Generate all DATs
+      - name: Generate and collect all DATs
         run: |
+          mkdir generated_dats
+          cp -r external_dats/* generated_dats/
           chmod +x ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }}
           ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }} make-dats ${{ github.workspace }}
 
       - name: Compress all DATs
-        run: 7z a -t7z -mx=9 all_dats.7z generated_dats/
+        run: 7z a -t7z -mx=9 all_dats.7z ./generated_dats/*
 
       - name: Get release name
         id: vars
