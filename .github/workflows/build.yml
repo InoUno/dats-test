@@ -1,0 +1,25 @@
+
+name: build
+on: push
+
+jobs:
+  make-dats:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Download xi-tinkerer-cli
+        id: tinkerer
+        uses: robinraju/release-downloader@v1
+        with:
+          latest: true
+          repository: InoUno/xi-tinkerer
+          fileName: xi-tinkerer-cli-linux-amd64
+
+      - name: Generate all DATs
+        run: |
+          chmod +x ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }}
+          ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }} make-dats ${{ github.workspace }}

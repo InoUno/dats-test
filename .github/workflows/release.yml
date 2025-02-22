@@ -1,5 +1,5 @@
 
-name: "publish"
+name: publish
 on: workflow_dispatch
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
         with:
           latest: true
           repository: InoUno/xi-tinkerer
-          fileName: 'xi-tinkerer-cli-linux-amd64'
+          fileName: xi-tinkerer-cli-linux-amd64
 
       - name: Install p7zip
         uses: awalsh128/cache-apt-pkgs-action@latest
