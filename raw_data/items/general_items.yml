@@ -35043,7 +35043,7 @@ items:
     singular_name: buffalo hide
     plural_name: buffalo hides
     description: |
-      The prickly hide of a buffalo.
+      The tough hide of a buffalo.
   flags:
   - MysteryBox
   stack_size: 12
